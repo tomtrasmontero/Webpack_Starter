@@ -6,7 +6,8 @@
           "> 1%",
           "last 2 versions"
         ]
-      }
+      },
+      "useBuildIns": "entry"
     }],
     "stage-2",
     "react"

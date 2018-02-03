@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { BrowserRouter } from 'react-router-dom';
+// support older browser
+import 'babel-polyfill';
 
 import './index.css';
 import App from './App';
